@@ -29,8 +29,7 @@ MongoDB installed and running
 #### Clone the repository:
 
 ```bash
-git clone https://github.com/Dsmita03/RealTimeChat.git
-cd RealTimeChat
+git clone https://github.com/Dsmita03/RealTimeChat
  ```
 Set up the backend:
 
