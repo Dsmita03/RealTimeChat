@@ -10,6 +10,16 @@ RealTimeChat is a full-stack web application that enables users to engage in rea
 
 - Scalable backend architecture
 
+<h2 id="screenshots">⚙ Screenshots</h2>
+<h4>Login Page</h4>
+<img src="snaps/Login.png" alt="Login Page" width="800">
+<h4>Setting Page</h4>
+<img src="snaps/setting.png" alt="Login Page" width="800">
+<h4>Profile Page</h4>
+<img src="snaps/Edit Profile.png" alt="Login Page" width="800">
+<h4>Chat Page</h4>
+<img src="snaps/Chat.png" alt="Login Page" width="800">
+
 ## 🛠️ Tech Stack
 Frontend: React.js
 
